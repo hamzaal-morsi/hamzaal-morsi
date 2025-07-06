@@ -42,7 +42,7 @@
 
 ###
 
-<div class="tenor-gif-embed" data-postid="7572724918981180952" data-share-method="host" data-aspect-ratio="0.60274" data-width="100%"><a href="https://tenor.com/view/deltarune-chapter-3-tenna-mr-ant-tenna-dance-gif-7572724918981180952">
+<img src="MrTennaDance.gif" alt="MrTennaDance" />
 
 ###
 
