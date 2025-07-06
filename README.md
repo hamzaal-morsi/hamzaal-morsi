@@ -33,7 +33,7 @@
 
 ###
 <!-- Social Links -->
-<div align="center" style="font-family: monospace; font-size: 16px;">
+<div align="center" style="font-family: monospace; font-size: 16px; text-decoration: none;">
   <h2>🌐 My Links</h2>
   
   <p>
