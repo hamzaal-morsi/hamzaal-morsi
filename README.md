@@ -39,14 +39,14 @@
   
   <p>
     <a href="https://www.youtube.com/@HamzaAl-Morsi" target="_blank">
-      <img src="https://www.svgrepo.com/show/354173/youtube-icon.svg" width="24" style="vertical-align: middle;" />
+      <img src="[https://www.svgrepo.com/show/354173/youtube-icon.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)" width="24" style="vertical-align: middle;" />
       &nbsp; <strong>Hamza Al-Morsi (Business Channel)</strong>
     </a>
   </p>
 
   <p>
     <a href="https://www.youtube.com/@HambozaZ_Engineer" target="_blank">
-      <img src="https://www.svgrepo.com/show/354173/youtube-icon.svg" width="24" style="vertical-align: middle;" />
+      <img src="[https://www.svgrepo.com/show/354173/youtube-icon.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)" width="24" style="vertical-align: middle;" />
       &nbsp; <strong>Hamboza Z::Engineer (Personal Channel)</strong>
     </a>
   </p>
