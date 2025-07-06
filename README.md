@@ -37,33 +37,33 @@
   <h2>🌐 My Links</h2>
   
   <p>
-    <a href="https://www.youtube.com/@HamzaAl-Morsi" target="_blank">
+    <a href="https://www.youtube.com/@HamzaAl-Morsi" target="_blank" style="text-decoration: none;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="24" style="vertical-align: middle;" />
       &nbsp; <strong>Hamza Al-Morsi (Business Channel)</strong>
     </a>
   </p>
 
   <p>
-    <a href="https://www.youtube.com/@HambozaZ_Engineer" target="_blank">
+    <a href="https://www.youtube.com/@HambozaZ_Engineer" target="_blank" style="text-decoration: none;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="24" style="vertical-align: middle;" />
       &nbsp; <strong>Hamboza Z::Engineer (Personal Channel)</strong>
     </a>
   </p>
-    <a href="https://www.instagram.com/hambozazengineer/" target="_blank">
+    <a href="https://www.instagram.com/hambozazengineer/" target="_blank" style="text-decoration: none;">
       <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="24" style="vertical-align: middle;" />
       &nbsp; <strong>Instagram</strong>
     </a>
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/hamza-al-morsi-7bb875369/" target="_blank">
+    <a href="https://www.linkedin.com/in/hamza-al-morsi-7bb875369/" target="_blank" style="text-decoration: none;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" style="vertical-align: middle;" />
       &nbsp; <strong>LinkedIn</strong>
     </a>
   </p>
 
   <p>
-    <a href="https://discord.gg/RgPYV5n6qk" target="_blank">
+    <a href="https://discord.gg/RgPYV5n6qk" target="_blank" style="text-decoration: none;">
       <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="24" style="vertical-align: middle;" />
       &nbsp; <strong>My Discord Server</strong>
     </a>
