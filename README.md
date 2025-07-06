@@ -33,12 +33,46 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo""/>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<!-- Social Links -->
+<div align="center" style="font-family: monospace; font-size: 16px;">
+  <h2>🌐 My Links</h2>
+  
+  <p>
+    <a href="https://www.youtube.com/@HamzaAl-Morsi" target="_blank">
+      <img src="https://www.svgrepo.com/show/354173/youtube-icon.svg" width="24" style="vertical-align: middle;" />
+      &nbsp; <strong>Hamza Al-Morsi (Business Channel)</strong>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://www.youtube.com/@HambozaZ_Engineer" target="_blank">
+      <img src="https://www.svgrepo.com/show/354173/youtube-icon.svg" width="24" style="vertical-align: middle;" />
+      &nbsp; <strong>Hamboza Z::Engineer (Personal Channel)</strong>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://www.instagram.com/hambozazengineer/" target="_blank">
+      <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="24" style="vertical-align: middle;" />
+      &nbsp; <strong>Instagram</strong>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/hamza-al-morsi-7bb875369/" target="_blank">
+      <img src="https://www.svgrepo.com/show/452234/linkedin-1.svg" width="24" style="vertical-align: middle;" />
+      &nbsp; <strong>LinkedIn</strong>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://discord.gg/RgPYV5n6qk" target="_blank">
+      <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="24" style="vertical-align: middle;" />
+      &nbsp; <strong>My Discord Server</strong>
+    </a>
+  </p>
 </div>
+
 
 ###
 
