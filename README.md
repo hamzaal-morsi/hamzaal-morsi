@@ -42,7 +42,7 @@
 
 ###
 
-<img src="MrTennaDance.gif" alt="MrTennaDance" align="right" width="50%" height="auto"/>
+<img src="MrTennaDance.gif" alt="MrTennaDance" align="center" width="20%" height="auto"/>
 
 ###
 
