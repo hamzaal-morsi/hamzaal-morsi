@@ -42,7 +42,9 @@
 
 ###
 
+<div align="center">
 <img src="MrTennaDance.gif" alt="MrTennaDance" align="center" width="20%" height="auto"/>
+</div>
 
 ###
 
