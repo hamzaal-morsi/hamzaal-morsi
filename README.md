@@ -1,8 +1,8 @@
-<h2 align="center">Hi 💖!</h2>
+<h1 align="center">Hi 💖</h1>
 
 ###
 
-<p align="center">🌍 Hamza Al-Morsi | 16 y/o 🇪🇬 from Egypt ✨<br>💻 Full Stack Junior Dev 💻 <br>🎥 Content Creator 📷<br>🕹️ Passionate About Game Dev 🕹️<br>--------------------------------------------------------------------------------------------<br>🎯 I'm Here to Make the World a Better Place to Live On! 🎯</p>
+<p align="center">🌍 Hamza Al-Morsi | 16 <b>y/o</b> 🇪🇬 from Egypt ✨<br>💻 Full Stack Junior Dev 💻 <br>🎥 Content Creator 📷<br>🕹️ Passionate About Game Dev 🕹️<br>--------------------------------------------------------------------------------------------<br>🎯 I'm Here to Make the World a Better Place to Live On! 🎯</p>
 
 ###
 
