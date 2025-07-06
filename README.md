@@ -33,20 +33,19 @@
 
 ###
 
-<!-- Social Links -->
 <div align="center" style="font-family: monospace; font-size: 16px;">
   <h2>🌐 My Links</h2>
   
   <p>
     <a href="https://www.youtube.com/@HamzaAl-Morsi" target="_blank">
-      <img src="[https://www.svgrepo.com/show/354173/youtube-icon.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)" width="24" style="vertical-align: middle;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="24" style="vertical-align: middle;" />
       &nbsp; <strong>Hamza Al-Morsi (Business Channel)</strong>
     </a>
   </p>
 
   <p>
     <a href="https://www.youtube.com/@HambozaZ_Engineer" target="_blank">
-      <img src="[https://www.svgrepo.com/show/354173/youtube-icon.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)" width="24" style="vertical-align: middle;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="24" style="vertical-align: middle;" />
       &nbsp; <strong>Hamboza Z::Engineer (Personal Channel)</strong>
     </a>
   </p>
@@ -60,7 +59,7 @@
 
   <p>
     <a href="https://www.linkedin.com/in/hamza-al-morsi-7bb875369/" target="_blank">
-      <img src="https://www.svgrepo.com/show/452234/linkedin-1.svg" width="24" style="vertical-align: middle;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" style="vertical-align: middle;" />
       &nbsp; <strong>LinkedIn</strong>
     </a>
   </p>
@@ -72,7 +71,6 @@
     </a>
   </p>
 </div>
-
 
 ###
 
