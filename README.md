@@ -1,4 +1,4 @@
-<h2 align="left">Hi 💖!</h2>
+<h2 align="center">Hi 💖!</h2>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div class="tenor-gif-embed" data-postid="7572724918981180952" data-share-method="host" data-aspect-ratio="0.60274" data-width="100%"><a href="https://tenor.com/view/deltarune-chapter-3-tenna-mr-ant-tenna-dance-gif-7572724918981180952">Deltarune Chapter 3 Sticker</a>from <a href="https://tenor.com/search/deltarune-stickers">Deltarune Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
