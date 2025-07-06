@@ -42,12 +42,12 @@
 
 ###
 
-<img src="MrTennaDance.gif" alt="MrTennaDance" />
+<img src="MrTennaDance.gif" alt="MrTennaDance" align="right" />
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hamzaal-morsi/hamzaal-morsi/output/snake.svg" alt="Snake animation" />
+<img src="snake.yml" alt="Snake animation" />
 
 ###
